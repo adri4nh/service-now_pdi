@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_373941_github_github_repository">x_373941_github_github_repository</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>GIT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 13:52:04</sys_created_on>
+        <sys_id>ea2bbd49872201108b2f43fc0ebb359b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT</sys_name>
+        <sys_package display_value="GitHub Repos" source="x_373941_github">ff7ab901872201108b2f43fc0ebb3531</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Repos">ff7ab901872201108b2f43fc0ebb3531</sys_scope>
+        <sys_update_name>sys_number_ea2bbd49872201108b2f43fc0ebb359b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 13:52:04</sys_updated_on>
+    </sys_number>
+</record_update>
